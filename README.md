@@ -35,6 +35,8 @@ imshow(img);
 
 This function displays the grayscale image, making it easier to analyse and apply further transformations.
 
+### Task 1 - Image Rotation
 
+The goal of this task was to implement a function that rotates a grayscale image by a given angle (Theta) while ensuring that the output image maintains the same dimensions as the original. The rotation was to be performed about the center of the image, using the nearest neighbor interpolation method, and any pixels mapped outside the image boundary should be painted black.
 
 
