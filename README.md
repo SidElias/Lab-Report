@@ -9,7 +9,9 @@ Once MATLAB was set up, the first task was to load a grayscale image called clow
 
 Load Output:
 
-![image](https://github.com/user-attachments/assets/e92ff6b8-a8aa-4cad-b283-d4d3ede42da6)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e92ff6b8-a8aa-4cad-b283-d4d3ede42da6" alt="image">
+</p>
 
 However, this approach resulted in an issue where the image did not load properly due to format and naming issues. The image was stored as a 200×320 matrix of grayscale values ranging from 0 to 1.
 
